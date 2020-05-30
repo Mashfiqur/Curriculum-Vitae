@@ -1,0 +1,176 @@
+#header{
+        background: #583759;
+        color: white;
+        display:grid;
+        grid-template-columns: 2fr 5fr;
+        margin-top:20px;
+      }
+
+#image{
+  width:170px;
+  height:180px;
+  float:left;
+  border-radius: 20px;
+
+    }
+#name{
+  letter-spacing: 0.4em;
+  color: #FC6C85;
+
+}
+#dag{
+  width:850px;
+  height:10px;
+  background: yellow;
+
+}
+
+#dag3{
+  width:1141px;
+  height:10px;
+  background: yellow;
+  margin-left: 14px;
+}
+#career-objective{
+  background-color: #A74AC7;
+  padding-bottom: 2px;
+}
+#bodyside{
+  padding:0px;
+  margin-top:50px;
+
+}
+#head_margin{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 3px;
+  letter-spacing: 0.5em;
+}
+#head_margin1{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 3px;
+  letter-spacing: 1.2em;
+}
+#education{
+width: 1139px;
+height:280px;
+margin-top: 15px;
+margin-left: 16.5px;
+margin-right: 10px;
+  color: white;
+  display:grid;
+ grid-template-columns: 3fr 5fr;
+
+}
+#education-index{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#education-details{
+
+  margin-left: 20px;
+  margin-top: 27px;
+}
+#ed1-det{
+margin-left: 20px;
+margin-top:  15px;
+padding-bottom: 1px;
+}
+#tech{
+  width: 1139px;
+  height:370px;
+  margin-top: 15px;
+  margin-left: 16.5px;
+  margin-right: 10px;
+    color: white;
+    display:grid;
+   grid-template-columns: 3fr 5fr;
+}
+#tech-details{
+  margin-left: 40px;
+  margin-top: 13px;
+  line-height: 3em;
+
+}
+#tech1-det{
+  padding-bottom: 12px;
+  word-spacing: 1em;
+
+}
+#thesis{
+  width: 1139px;
+  height:1670spx;
+  margin-top: 15px;
+  margin-left: 16.5px;
+  margin-right: 10px;
+  color: white;
+  display:grid;
+  grid-template-columns: 3fr 5fr;
+}
+
+#thesis1-det{
+line-height: 1em;
+border-radius: 20px;
+}
+#thes-det-1{
+  margin-left: 150px;
+  padding-bottom: 3px;
+  color: #0000FF;
+
+}
+#thes-det-2{
+ line-height: 1.2em;
+ color: #0000FF;
+
+}
+#thes-det-3{
+  margin-left:60px;
+  padding-bottom: 3px;
+  color: #0000FF;
+
+}
+#thes-det-4{
+  margin-left:35px;
+  padding-bottom: 3px;
+  color: #0000FF;
+
+}
+#thes-det-0{
+  margin-left:230px;
+  padding-bottom: 3px;
+  color: #0000FF;
+
+}
+ # info{
+  width:1139px;
+
+  margin-top: 25px;
+  margin-left: 16.5px;
+  margin-right: 10px;
+    color: white;
+
+   padding-left: 0px;
+   padding-right: 0px;
+}
+#part{
+ border-radius: 10px;
+height: 350px;
+background-color:  #f4d03f  ;
+}
+#per{
+  border-radius: 10px;
+background-color:  #abb2b9  ;
+height: 350px;
+
+}
+#part1{
+line-height: 1.3em;
+
+}
+
+#dag1{
+  width::200px;
+  height:3px;
+  background-color: silver;
+}
